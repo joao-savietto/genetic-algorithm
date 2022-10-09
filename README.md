@@ -84,7 +84,9 @@ def crossover(self, other):
 <p> Método que faz o crossover entre dois indivíduos, gerando dois descendentes. Esse método já está implementado, sendo assim herdado pela a classe filha </p>
 
 <hr/>
+
 ### GeneticAlgorithm
+
 <p> Implementação do algoritmo genético propriamente dito. O construtor recebe uma instância de 'Individual', utilizada como base para gerar a população inicial. </p>
 
 ### Atributos
